@@ -1,0 +1,16 @@
+F:\OAKTON\Final_Project_Files\CIS227FinalFormAlbright\CIS227FinalFormAlbright\bin\Debug\netcoreapp3.1\CIS227FinalFormAlbright.exe
+F:\OAKTON\Final_Project_Files\CIS227FinalFormAlbright\CIS227FinalFormAlbright\bin\Debug\netcoreapp3.1\CIS227FinalFormAlbright.deps.json
+F:\OAKTON\Final_Project_Files\CIS227FinalFormAlbright\CIS227FinalFormAlbright\bin\Debug\netcoreapp3.1\CIS227FinalFormAlbright.runtimeconfig.json
+F:\OAKTON\Final_Project_Files\CIS227FinalFormAlbright\CIS227FinalFormAlbright\bin\Debug\netcoreapp3.1\CIS227FinalFormAlbright.runtimeconfig.dev.json
+F:\OAKTON\Final_Project_Files\CIS227FinalFormAlbright\CIS227FinalFormAlbright\bin\Debug\netcoreapp3.1\CIS227FinalFormAlbright.dll
+F:\OAKTON\Final_Project_Files\CIS227FinalFormAlbright\CIS227FinalFormAlbright\bin\Debug\netcoreapp3.1\CIS227FinalFormAlbright.pdb
+F:\OAKTON\Final_Project_Files\CIS227FinalFormAlbright\CIS227FinalFormAlbright\obj\Debug\netcoreapp3.1\CIS227FinalFormAlbright.csprojAssemblyReference.cache
+F:\OAKTON\Final_Project_Files\CIS227FinalFormAlbright\CIS227FinalFormAlbright\obj\Debug\netcoreapp3.1\CIS227FinalFormAlbright.Form1.resources
+F:\OAKTON\Final_Project_Files\CIS227FinalFormAlbright\CIS227FinalFormAlbright\obj\Debug\netcoreapp3.1\CIS227FinalFormAlbright.csproj.GenerateResource.cache
+F:\OAKTON\Final_Project_Files\CIS227FinalFormAlbright\CIS227FinalFormAlbright\obj\Debug\netcoreapp3.1\CIS227FinalFormAlbright.AssemblyInfoInputs.cache
+F:\OAKTON\Final_Project_Files\CIS227FinalFormAlbright\CIS227FinalFormAlbright\obj\Debug\netcoreapp3.1\CIS227FinalFormAlbright.AssemblyInfo.cs
+F:\OAKTON\Final_Project_Files\CIS227FinalFormAlbright\CIS227FinalFormAlbright\obj\Debug\netcoreapp3.1\CIS227FinalFormAlbright.csproj.CoreCompileInputs.cache
+F:\OAKTON\Final_Project_Files\CIS227FinalFormAlbright\CIS227FinalFormAlbright\obj\Debug\netcoreapp3.1\CIS227FinalFormAlbright.dll
+F:\OAKTON\Final_Project_Files\CIS227FinalFormAlbright\CIS227FinalFormAlbright\obj\Debug\netcoreapp3.1\CIS227FinalFormAlbright.pdb
+F:\OAKTON\Final_Project_Files\CIS227FinalFormAlbright\CIS227FinalFormAlbright\obj\Debug\netcoreapp3.1\CIS227FinalFormAlbright.genruntimeconfig.cache
+F:\OAKTON\Final_Project_Files\CIS227FinalFormAlbright\CIS227FinalFormAlbright\obj\Debug\netcoreapp3.1\CIS227FinalFormAlbright.AddEmployeeForm.resources
